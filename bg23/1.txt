@@ -1,0 +1,2 @@
+[23-Mar-2016 19:45:38 Europe/Moscow] PHP Warning:  ini_set() expects exactly 2 parameters, 0 given in D:\Cloud\__SHARED\OpenServer\domains\php\bg23\bg23.php on line 16
+[23-Mar-2016 19:46:11 Europe/Moscow] PHP Warning:  ini_set() expects exactly 2 parameters, 0 given in D:\Cloud\__SHARED\OpenServer\domains\php\bg23\bg23.php on line 16
