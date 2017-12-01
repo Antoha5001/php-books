@@ -5,26 +5,24 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="PHP">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../../modules/php/PHP-5.5" />
-        </CLASSES>
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../../modules/php/PHP-5.5" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/../../modules/php/PHP-5.5/composer.phar/" />
-          <root url="phar://$MODULE_DIR$/../../modules/php/PHP-5.5/PEAR/go-pear.phar/" />
-          <root url="phar://$MODULE_DIR$/../../modules/php/PHP-5.5/pharcommand.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/autopager.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar.gz/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/phpinfo.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/ispager.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/text.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/gallery.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/../../modules/php/PHP-5.5/composer.phar/" />
-          <root url="phar://$MODULE_DIR$/../../modules/php/PHP-5.5/PEAR/go-pear.phar/" />
-          <root url="phar://$MODULE_DIR$/../../modules/php/PHP-5.5/pharcommand.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/autopager.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar.gz/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/phpinfo.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/ispager.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/text.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/phar/gallery.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
