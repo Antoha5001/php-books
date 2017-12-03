@@ -2,12 +2,666 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f34461-e6b0-45fc-8e99-49260a8f7cb7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_koterov/cgi/script.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.iml" afterPath="$PROJECT_DIR$/.idea/php.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_koterov/gl5/gh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_koterov/gl5/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/addcom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/catalog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/catalogs.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/check.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/checkboxes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/click.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/comments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/comments.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/connect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/files.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/html.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/list.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/select.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/time.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ajax/users.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/array_multisort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/badplus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/for.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/foreach_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/foreach_ref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/forkeys.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/arrays/list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/buildin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgi/getform.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgi/script.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/cookies.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/env.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/gif.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/post.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/postdecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/script.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/test.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/c/urldecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/multipart.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/cgiinside/postform.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/File/Logger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/File/Logger0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/Math/Complex.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/Math/Complex1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/Math/Complex2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/call.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/call1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/clone.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/clone0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/cls.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/const.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/construct.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/defined.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/destr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/destr0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/oldcons.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/overload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/refcount.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/serialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/text.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/tostring.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/unserialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/user_serialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes/user_unserialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/closure.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/dateinterval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/dateinterval_diff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/dateperiod.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/datetime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/datetime_rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/datetime_set.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/datetimezone.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/dir1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/generator_class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/next.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/rewind.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/classes_php/view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/items_range.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/languages.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/monolog/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/monolog/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/monolog/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/DirPager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/FilePager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/ItemsRange.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/Pager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/PagesList.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/PdoPager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager/src/ISPager/View.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager_use/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager_use/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pager_use/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/pdo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/phinx/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/phinx/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/phinx/db/migrations/20151227101306_create_user_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/phinx/db/seeds/UsersSeeder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/phinx/phinx.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815135808.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815135939.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140021.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140107.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140209.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140411.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140506.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140606.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815140809.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815141012.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/photos/s_20040815141200.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/psysh/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/psysh/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/composer/psysh/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/curl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/headers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/time.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/curl/user_agent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/date/calendar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/date/date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/date/gm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/date/microtime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/date/strftime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/date/strtotime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/PHP/Exceptionizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/catchall.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/destr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/er.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/error_catch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/finally.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/handler0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/iface/exceptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/iface/interfaces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/iface/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/inherit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/seh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/stack.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/submit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/tostring.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/trace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/trigger_error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/w2e_hier.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/except/w2e_simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/exec/dead.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/exec/esc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/exec/popen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/bits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/bits_pack.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/bits_unpack.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/bool.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/boolinc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/dynamic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/eq.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/eqobj.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/exists.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/hardref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/if.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/objref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/var_export.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/warn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/expr/warnoff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/extensions/phpinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/extensions/precision.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/extensions/session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/counter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/csv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/file.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/file.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/glob.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/ini.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/lock_ex.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/lock_ex_cyclic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/lock_sh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/slashes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/textbin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/files/tree.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/anonim_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/boolean_validate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/callback_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/email_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/email_validate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/encoded_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/filter_input.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/filter_var.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/filter_var_array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/int_float_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/int_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/ip_validate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/magic_quotes_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/range_validate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/regexp_validate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/filters/special_chars_sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/checkbox.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/dump.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/hello.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/ip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/lock.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/forms/qs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/fpm/php-fpm.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/fpm/pool.d/example.com.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/fpm/pool.d/example.net.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/fpm/sites-available/example.com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/fpm/sites-available/example.net" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/anonim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/anpar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/byref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/byval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/call_user_func_array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/closure.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/dumper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/dumperEx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/func_get_args.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/global.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/local.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/nested.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/retnull.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/retref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/return.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/select.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/speed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/stricttypes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/toomanyargs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/types.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/unset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/varargs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/varargsold.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/func/virtual.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/array_flip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/array_intersect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/array_reverse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/asort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/json_answer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/json_decode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/json_encode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/json_index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/json_index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/ksort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/merge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/natsort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/shuffle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/sort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/sort1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/uksort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/funcarr/usort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/button.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/lib/imagettf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/pen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/random.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/resample.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample00.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/sample5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/semitransp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/tile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/times.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/transparent.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/transparent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/gd/ttf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/collect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/combine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/combine_from.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/keys.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/makerange_bad.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/makerange_good.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/object.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/ref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/reject.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/return.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/select.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/send.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/generators/yield.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/File/Logger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/File/Logger/Debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/File/Logger/Debug0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/anonym.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/anonym_nested.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/final.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/ifacemulti.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/inherit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/inherit0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/inherit0cast.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/inherit_static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/Cached.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/CachedA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/News.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/PageA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/StaticPage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/cast.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/instanceof.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/pages/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/traits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/traits_conflict.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/inherit/traits_inherit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/dowhile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/for.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/foreach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/goto.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/ifelse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/require/foot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/require/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/require/script.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/trouble/aargh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/trouble/wlib.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/trouble/xllib.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/instruct/while.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/directory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/filter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/iter_fs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/iter_simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/lib/FS.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/lib/filter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/limit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/recursion.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/recursion_dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/iterators/size.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/attach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/lib/attach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/lib/mail_enc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/lib/mailenc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/lib/mailx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/lib/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/mail.eml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/mail.php.eml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/mail_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/mail_simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/mail_x.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/s_20040815135808.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mail/s_20040815135939.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/math/largetextfile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/math/mt_srand.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/math/nan.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/math/randline.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/connect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/connect_multi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/delete_by_key.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/error_code.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/fetch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/get_by_key.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/get_multi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/groups.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/increment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/server_by_key.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/set.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/set_by_key.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/memcached/set_multi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/.my.cnf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/addnews.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/authors.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/auto.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/catalogs.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/connect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/connect_db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/errors.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/exec.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/fetch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/fetch_all.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/forums.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/multi_insert.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/my.cnf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/news.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/posts.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/prepare.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/pri.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/tbl.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/tbl_insert.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/tbl_order.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/themes.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/mysql/version.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/PHP7/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/PHP7/Seo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/PHP7/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/absolute.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/anonim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/few.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/few_relative.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/few_use.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/namespace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/namespace_use.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/spl_autoload_register.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/use.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/namespace/wrong.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/context.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/socket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/net/wrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/mime.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/nginx.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/sites-available/example.com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/sites-available/example.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/sites-available/example.io" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/sites-available/example.net" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/sites-available/example.org" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/templates/default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/nginx/templates/php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/Buffering/Output.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/correct.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/gz.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/gz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/handle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/linearize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/ob/objhandle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/create_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/eval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/lastmod.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/mkfuncs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/phpinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/sort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/sort_new.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/otherfuncs/sort_old.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/perm/fileperms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/perm/mtime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/perm/text.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/perm/typefile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/autoloader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/autopager.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/compress.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/compress.phar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/compress.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/create.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/extract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/foreach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/gallery.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/gallery_phar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/gallery_use.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/ispager.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/phpinfo.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/stream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/stub.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/stub_use.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/text.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phar/text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpbasics/sq.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/PHP7/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docblock.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/bootstrap-combined.no-icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/jquery.iviewer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/lte-ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/phpdocumentor-clean-icons/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/css/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/files/docblock.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/files/docblock.php.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/font/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/font/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/font/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/font/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/font/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/graphs/class.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/custom-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/hierarchy-item.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/icon-class-13x13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/icon-class.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/icon-interface-13x13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/icon-interface.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/icon-trait-13x13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/icon-trait.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/grab.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/hand.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/iviewer.rotate_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/iviewer.rotate_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_fit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_out.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/images/iviewer/iviewer.zoom_zero.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery.dotdotdot-1.5.9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery.dotdotdot-1.5.9.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery.iviewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery.iviewer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/jquery.smooth-scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/prism.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/js/ui/1.10.4/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/namespaces/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/phpdoc-cache-2e/phpdoc-cache-settings.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/phpdoc-cache-66/phpdoc-cache-file_a55161f66a86fef6e379665611095064.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/reports/deprecated.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/reports/errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/phpdocs/phpdocs/docs/reports/markers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/email.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex01.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex02.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex03.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex04.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex05.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex06.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex07.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex08.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex09.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex10.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex11.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/ex12.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/grep.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/hsc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/largetextfile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/match_all.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/replace_callback.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/replace_callback_array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/translit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/preg/uniq.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/redirect/bad.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/redirect/book.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/redirect/good.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/redirect/internal.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/redirect/result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/impl_meth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/inst.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/inst_refl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/lib/Complex2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/rclass.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/rdoc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/rexcept.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/rext.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/rfunc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/reflect/rinherit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/session/count.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/session/handlers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/codesniffer/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/codesniffer/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/indent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/interpolate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Cache/CacheItemInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Cache/CacheItemPoolInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/MessageInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/RequestInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/ResponseInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/ServerRequestInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/StreamInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/UploadedFileInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Http/Message/UriInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr/Log/LoggerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr1right.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr1wrong.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/psr2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/standarts/server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/ascii.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/compare.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/htmlspecialchars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/str_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/strip_tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/strlen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/translit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/translit_utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/utf8crash.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/string/wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/1/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/2/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/comp/component_gbook_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/comp/component_gbook_show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/comp/component_news_show.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/comp/gbook.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/comp/model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/comp/view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/gbook.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/passive/controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/passive/gbook.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/passive/view.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/mvc/view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/template/news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/upload/album.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/upload/complex.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/upload/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/vagrant/Vagrantfile01" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/vagrant/Vagrantfile02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/vagrant/Vagrantfile03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/vagrant/Vagrantfile04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/getallheaders.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/lib/http_build_url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/lib/nocache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/modify_url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/parse_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/parse_url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/www/sillycount.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/attributes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/attributes_list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/build.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/connect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/count.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/enclosure.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/news.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/read.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_koterov/xml/xpath.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.iml" afterPath="$PROJECT_DIR$/.idea/php.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,27 +681,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="getform.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_koterov/cgi/getform.htm">
+      <file leaf-file-name="gh.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_koterov/gl5/gh.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_koterov/cgi/script.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_koterov/gl5/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +720,8 @@
         <option value="$PROJECT_DIR$/bg22/bg22.php" />
         <option value="$PROJECT_DIR$/_koterov/cgi/script.php" />
         <option value="$PROJECT_DIR$/_koterov/cgi/getform.htm" />
+        <option value="$PROJECT_DIR$/_koterov/gl5/gh.html" />
+        <option value="$PROJECT_DIR$/_koterov/gl5/index.php" />
       </list>
     </option>
   </component>
@@ -77,10 +740,13 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="146" />
-    <option name="y" value="44" />
+    <option name="x" value="497" />
+    <option name="y" value="81" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -113,7 +779,7 @@
               <item name="php" type="b2602c69:ProjectViewProjectNode" />
               <item name="php.books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_koterov" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cgi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="gl5" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -134,9 +800,11 @@
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node.exe" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\php.books\_koterov\gl5" />
       <recent name="D:\Cloud 2\__SHARED\OpenServer\domains\php\bg22" />
     </key>
   </component>
@@ -153,6 +821,18 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
       <method />
     </configuration>
@@ -219,18 +899,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
-      <node-interpreter value="project" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -246,32 +914,35 @@
       <option name="presentableId" value="Default" />
       <updated>1452255080492</updated>
       <workItem from="1512107759452" duration="757000" />
+      <workItem from="1512228193049" duration="2183000" />
+      <workItem from="1512237853587" duration="618000" />
+      <workItem from="1512306847933" duration="3588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="757000" />
+    <option name="totallyTimeSpent" value="7146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="44" width="1400" height="1000" extended-state="0" />
+    <frame x="497" y="81" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25373134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26492536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -295,11 +966,44 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_koterov/gl5/gh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl5/gh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/cgi/getform.htm" />
+    <entry file="file://$PROJECT_DIR$/_koterov/cgi/script.php" />
     <entry file="file://$PROJECT_DIR$/bg22/bg22.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -314,22 +1018,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/cgi/script.php" />
+    <entry file="file://$PROJECT_DIR$/_koterov/cgi/getform.htm" />
+    <entry file="file://$PROJECT_DIR$/_koterov/gl5/gh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_koterov/cgi/script.php">
+    <entry file="file://$PROJECT_DIR$/_koterov/gl5/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_koterov/cgi/getform.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>

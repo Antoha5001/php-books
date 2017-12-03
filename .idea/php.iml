@@ -7,22 +7,22 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/_koterov/phar/autopager.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar.gz/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/phpinfo.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/ispager.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/text.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/gallery.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/phpinfo.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/compress.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/ispager.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/text.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/compress.phar.gz/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/gallery.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/autopager.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/_koterov/phar/autopager.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar.gz/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/phpinfo.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/compress.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/ispager.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/text.phar/" />
-          <root url="phar://$MODULE_DIR$/_koterov/phar/gallery.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/phpinfo.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/compress.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/ispager.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/text.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/compress.phar.gz/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/gallery.phar/" />
+          <root url="phar://$MODULE_DIR$/_koterov/_Ishodniki/phar/autopager.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
