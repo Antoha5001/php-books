@@ -22,9 +22,16 @@ class myClass{
 }
 $a = new myClass();
 $a->$b = 123;
-echo $a->$b;
-echo $a;
-
+//echo $a->$b;
+//echo $a;
+$b = <<<METKA
+Какой-то текст с переменной типа {$a->$b}
+и ещё
+METKA;
+$c = 'Какой-то текст';
+echo  $c[1];
+echo  $c;
+echo $b <=> $c;
 ?>
 </body>
 </html>
