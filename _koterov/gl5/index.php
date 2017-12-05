@@ -32,6 +32,11 @@ $c = 'Какой-то текст';
 echo  $c[1];
 echo  $c;
 echo $b <=> $c;
+echo "<br>";
+$x = 5;
+$z = 65;
+echo $_POST['name'] ?? "Нет имени";
+
 ?>
 </body>
 </html>
