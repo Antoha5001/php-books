@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f34461-e6b0-45fc-8e99-49260a8f7cb7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_koterov/gl8/index.php" afterPath="$PROJECT_DIR$/_koterov/gl8/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_koterov/gl9/index.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,20 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_koterov/gl8/index.php">
+        <entry file="file://$PROJECT_DIR$/_koterov/gl9/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="22" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_koterov/gl8/hello.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="255">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -65,6 +56,7 @@
         <option value="$PROJECT_DIR$/_koterov/gl5/index.php" />
         <option value="$PROJECT_DIR$/_koterov/gl8/hello.php" />
         <option value="$PROJECT_DIR$/_koterov/gl8/index.php" />
+        <option value="$PROJECT_DIR$/_koterov/gl9/index.php" />
       </list>
     </option>
   </component>
@@ -79,8 +71,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="36" />
+    <option name="x" value="470" />
+    <option name="y" value="28" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -102,7 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,15 +118,22 @@
               <item name="_koterov" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="gl8" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php.books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_koterov" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="gl9" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_koterov/gl8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_koterov/gl9" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="js.buildTools.gulp.node_interpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -148,6 +146,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer2\OSPanel\domains\php.books\_koterov\gl9" />
       <recent name="C:\OpenServer2\OSPanel\domains\php.books\_koterov\gl8" />
       <recent name="C:\OpenServer\domains\php.books\_koterov\gl5" />
       <recent name="D:\Cloud 2\__SHARED\OpenServer\domains\php\bg22" />
@@ -268,17 +267,19 @@
       <workItem from="1512561116978" duration="706000" />
       <workItem from="1512575324062" duration="2074000" />
       <workItem from="1512650228375" duration="2453000" />
+      <workItem from="1512657614920" duration="73000" />
+      <workItem from="1512657758812" duration="2724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16867000" />
+    <option name="totallyTimeSpent" value="19664000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="36" width="1400" height="1000" extended-state="0" />
+    <frame x="470" y="28" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28955224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29850745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -317,6 +318,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_koterov/gl8/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl8/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl8/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl8/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_koterov/gl8/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -461,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_koterov/gl8/hello.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="68">
           <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding />
         </state>
@@ -469,8 +502,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_koterov/gl8/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl9/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
           <folding />
         </state>
       </provider>
