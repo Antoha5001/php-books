@@ -17,6 +17,18 @@
 	for ($i = 32; $i < 127; $i++){
 		echo chr($i);
 }
+echo BR;
+$str = "Привет, мир!";
+	echo $str{2};
+	echo BR;
+
+	echo strlen($str);
+	echo BR;
+	echo mb_strlen($str);
+	echo BR;
+	$zero = 0;
+
+	if ("$zero" === 0) echo 0;
 
 ?>
 
