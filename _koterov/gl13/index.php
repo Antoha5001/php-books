@@ -1,9 +1,14 @@
 <?php include_once "libs.php"; ?>
+
+<?php
+	$text = ['TITLE'];
+	$toText = ['Глава 13. Строковые функции'];
+	$mark = <<<MARKER
 <!DOCTYPE html>
 <html lang="ru">
 <head>
 	<meta charset="UTF-8">
-	<title>Title</title>
+	<title>TITLE</title>
 	<style>
 		h1 {
 			font-size: 30px;
@@ -11,7 +16,14 @@
 	</style>
 </head>
 <body>
-<h1>Глава 13. Строковые функции</h1>
+<h1>TITLE</h1>
+MARKER;
+
+//	echo $mark;
+	echo str_replace($text, $toText, $mark);
+?>
+
+
 <?php
 
 	for ($i = 32; $i < 127; $i++){
