@@ -42,6 +42,10 @@ $str = "Привет, мир!";
 
 	if ("$zero" === 0) echo 0;
 
+	$str = "Какая-то строка";
+
+	echo urlencode($str);
+
 ?>
 
 
