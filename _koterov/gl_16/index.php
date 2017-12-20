@@ -19,6 +19,26 @@
 	echo  BR;
 	echo $file;
 
+	echo  BR;
+	$glob = glob("./*");
+	foreach ($glob as $key => $value){
+		echo $key." : ".$value."<br/>\n";
+	}
+	echo  BR;
+	function getFile($path){
+		$dir = opendir($path);
+		while (readdir($dir) !== false){
+			yield readdir($dir)."<br/>\n";
+		}
+	}
+	foreach (getFile(".") as $key){
+		echo $key;
+	}
+	$dir = opendir(".");
+
+//	echo readdir($dir);
+//	echo readdir($dir);
+//	echo readdir($dir);
 ?>
 </body>
 </html>
