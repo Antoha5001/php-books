@@ -45,6 +45,20 @@ $str = "Привет, мир!";
 	$str = "Какая-то строка";
 
 	echo urlencode($str);
+	echo BR;
+	$str = <<<EX
+	<?php 
+	echo "Hello world!"
+	?>
+EX;
+
+	echo htmlspecialchars($str);
+	echo BR;
+
+	$str = "строка";
+	setlocale(LC_ALL, 'ru_RU.utf-8');
+	echo strtoupper($str);
+
 
 ?>
 
