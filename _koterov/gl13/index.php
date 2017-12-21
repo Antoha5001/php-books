@@ -46,6 +46,7 @@ $str = "Привет, мир!";
 
 	echo urlencode($str);
 	echo BR;
+<<<<<<< HEAD
 	$str = <<<EX
 	<?php 
 	echo "Hello world!"
@@ -59,6 +60,18 @@ EX;
 	setlocale(LC_ALL, 'ru_RU.utf-8');
 	echo strtoupper($str);
 
+=======
+	$lor = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquid dignissimos dolor eaque expedita nisi qui recusandae soluta vero! Aspernatur blanditiis dolores eligendi, hic ipsam nemo officiis ut veniam veritatis voluptatem? A consequatur, cupiditate deleniti dolorem dolorum eos eveniet harum id laudantium minus molestiae nemo perferendis praesentium recusandae soluta suscipit voluptates. A ad aspernatur aut blanditiis consequuntur cum distinctio dolor doloremque eligendi facere fugiat in incidunt modi molestiae molestias nam nesciunt nisi non obcaecati odio qui quis quos ratione sint, sit soluta totam? Assumenda fugiat, rem. Dicta, eum, nisi? Architecto consequatur consequuntur explicabo libero maiores, minima provident quibusdam quod voluptatem!";
+
+	echo "<pre>".wordwrap($lor,50,"\n| ")."</pre>";
+	echo md5("морож");
+	echo md5("морож");
+	echo BR;
+	echo ($a = 5);
+	echo false;
+
+//	$arr = [];
+>>>>>>> d8a6779379e7716cc379e3835acd0ee91dc3f9cf
 
 ?>
 
