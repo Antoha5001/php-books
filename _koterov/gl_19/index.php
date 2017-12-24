@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-echo setlocale(LC_ALL,'ru_RU','ru_RU.UTF-8', 'ru', 'russian');
+setlocale(LC_ALL,'ru_RU','ru_RU.UTF-8', 'ru', 'russian');
 echo time();
 echo BR;
 echo microtime(true);
@@ -19,6 +19,9 @@ echo microtime(true);
 	 echo date("F");
 	echo BR;
 	echo strftime("%B");
+	echo BR;
+	$ts = "";
+	echo date("H-m",time()-date('Z',time()));
 	echo BR;
 ?>
 <?=date("Год Y");?>
