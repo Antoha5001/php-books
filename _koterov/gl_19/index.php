@@ -20,6 +20,14 @@ echo microtime(true);
 	echo BR;
 	echo strftime("%B");
 	echo BR;
+	echo date('d-m-Y', mktime(0,0,0,12,20,2017));
+	echo BR;
+	echo gregoriantojd(5,9,1945);
+	echo BR;
+	echo jdtogregorian(gregoriantojd(5,9,1945));
+	echo BR;
+	echo getdate()['year'];
+	echo BR;
 ?>
 <?=date("Год Y");?>
 </body>
