@@ -16,12 +16,26 @@
 
 	$pattern = "|<(\w+).*?>(.*?)</\\1>|s";
 	$text = "<b>Текст</b> и ещё <i>другой текст</i>";
-	foreach ($flags as $name){
-		preg_match_all($pattern,$text,$matches,$name);
-		echo "FLAG - ".$name."\n<br>";
+	foreach ($flags as $name) {
+		preg_match_all($pattern, $text, $matches, $name);
+		echo "FLAG - " . $name . "\n<br>";
 		print_r($matches);
 		echo "<br>\n";
 	}
+	$str = "<hTmL><BodY style='background: white'>Hello!</BodY></hTmL>";
+
+	$str = preg_replace_callback("{(?'lteg'</?)(?'content'\w+)(?'rteg'.*?>)}s",
+		function ($catch) {
+		return $catch['lteg'].strtolower($catch['content']).$catch['rteg'];
+		}, $str);
+	echo htmlspecialchars($str);
+	echo "<br>\n";
+	$str = "<hTmL><BodY style='background: white'>Hello!</BodY></hTmL>";
+	$str = preg_replace_callback_array([
+			"{(?'lteg'</?)(?'content'\w+)(?'rteg'.*?>)}s"
+			=> function ($catch) {return $catch['lteg'].strtolower($catch['content']).$catch['rteg'];}
+	],$str);
+	echo htmlspecialchars($str);
 ?>
 </body>
 </html>
