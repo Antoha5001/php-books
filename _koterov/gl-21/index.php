@@ -9,17 +9,37 @@
 <body>
 <?php
 	class MyClass{
-		public $a = 5, $b = 10;
+		public $a;
 
-		function summ (){
-			return $this -> a + $this -> b;
+		function summ (MyClass $obj){
+			return $this -> a + $obj -> a;
 		}
 
-	}
+		function __construct($settings){
+			$this -> a = $settings['a'];
+	  }
 
-	$myClass = new MyClass();
-	$myClass -> a = 100;
-	echo "{$myClass -> summ()}";
+	   function __toString(){
+		  return "{$this ->a}<br>";
+	  }
+
+   }
+
+	$myClass = new MyClass([
+			  'a' => 88
+	]);
+
+//	$bClass = new MyClass([
+//			  'a' => 12
+//	]);
+
+	echo "{$myClass -> summ(new MyClass([
+			  'a' => 12
+	]))}";
+
+	echo BR;
+	echo "Значение $myClass";
+	echo "Значение ".new MyClass(['a' => 12]);
 ?>
 </body>
 </html>
