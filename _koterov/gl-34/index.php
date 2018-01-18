@@ -1,5 +1,5 @@
 <?php
-	session_start(['session.name' => 'PHPSESSID']);
+	session_start();
 	header("Content-type: text/html; charset = utf-8");
 //	session_name();
 if (!isset($_SESSION['count'])){
@@ -31,6 +31,12 @@ echo $_SESSION['count'];
 print_r($_COOKIE);
 echo BR;
 echo session_name();
+	echo BR;
+echo session_id();
+	echo BR;
+echo session_save_path();
+	echo BR;
+echo handler_read(session_id());
 	echo BR;
 	$_SESSION = [];
 	unset($_COOKIE[session_name()]);
