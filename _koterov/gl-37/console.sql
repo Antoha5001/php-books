@@ -75,9 +75,34 @@ DESC tbl;
 INSERT INTO tbl VALUE (10,20);
 INSERT INTO tbl (id) VALUE (11);
 INSERT INTO tbl (cat_id, id ) VALUE (10,20);
+INSERT INTO tbl (cat_id, id, put_date, visit_date ) VALUE (100,20,'2018-01-28 22:12:43',"2018-01-28");
+INSERT INTO tbl (cat_id, id, put_date, visit_date ) VALUE (101,21,NOW(),NOW());
+INSERT IGNORE INTO tbl (cat_id, id, put_date, visit_date ) VALUE (103,NULL ,NOW(),NOW());
 INSERT INTO tbl ( ) VALUE ();
 
-INSERT INTO tbl SET id = 50, cat_id = 100;
+ALTER TABLE tbl ADD put_date DATETIME NOT NULL DEFAULT "2018-01-01 12:00:00";
+ALTER TABLE tbl ADD visit_date DATE NOT NULL DEFAULT "2018-01-01";
+ALTER TABLE tbl ADD PRIMARY KEY (id);
+ALTER TABLE tbl CHANGE id id INT(11) AUTO_INCREMENT ;
 
+
+
+UPDATE tbl SET visit_date = "2018-01-28" WHERE id = 5;
+
+UPDATE tbl  SET id = 19 WHERE cat_id = 100;
+
+INSERT INTO tbl SET id = 50, cat_id = 100;
+DELETE * FROM tbl;
 SELECT * FROM tbl;
 
+CREATE TABLE catalogs(
+  catalog_id INT(11) NOT NULL ,
+  name TINYTEXT NOT NULL
+);
+
+DESC catalogs;
+SELECT * FROM catalogs;
+
+INSERT INTO catalogs VALUES (1, 'Процессоры');
+INSERT INTO catalogs VALUES (2, "Оперативная память");
+INSERT INTO catalogs VALUES (3, 'Видеокарты "Geforce 8"');
