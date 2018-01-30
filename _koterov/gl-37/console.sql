@@ -75,8 +75,8 @@ DESC tbl;
 INSERT INTO tbl VALUE (10,20);
 INSERT INTO tbl (id) VALUE (11);
 INSERT INTO tbl (cat_id, id ) VALUE (10,20);
-INSERT INTO tbl (cat_id, id, put_date, visit_date ) VALUE (100,20,'2018-01-28 22:12:43',"2018-01-28");
-INSERT INTO tbl (cat_id, id, put_date, visit_date ) VALUE (101,21,NOW(),NOW());
+INSERT INTO tbl (cat_id,  put_date, visit_date ) VALUE (100,'2018-01-28 22:12:43',"2018-01-28");
+INSERT INTO tbl (cat_id,  put_date, visit_date ) VALUE (101,NOW(),NOW());
 INSERT IGNORE INTO tbl (cat_id, id, put_date, visit_date ) VALUE (103,NULL ,NOW(),NOW());
 INSERT INTO tbl ( ) VALUE ();
 
@@ -96,13 +96,32 @@ DELETE * FROM tbl;
 SELECT * FROM tbl;
 
 CREATE TABLE catalogs(
-  catalog_id INT(11) NOT NULL ,
-  name TINYTEXT NOT NULL
+  id INT(11) NOT NULL AUTO_INCREMENT,
+  names TINYTEXT NOT NULL ,
+  PRIMARY KEY (id)
 );
 
+DROP TABLE catalogs;
 DESC catalogs;
 SELECT * FROM catalogs;
 
-INSERT INTO catalogs VALUES (1, 'Процессоры');
-INSERT INTO catalogs VALUES (2, "Оперативная память");
-INSERT INTO catalogs VALUES (3, 'Видеокарты "Geforce 8"');
+DELETE FROM catalogs;
+
+INSERT INTO catalogs VALUES (NULL , 'Процессоры');
+INSERT INTO catalogs VALUES (NULL , "Оперативная память");
+INSERT INTO catalogs VALUES (NULL , 'Видеокарты "Geforce 8"');
+
+
+INSERT INTO catalogs (names) VALUES
+  ('Процессоры'),
+  ('Оперативная память'),
+  ('Видеокарты "Geforce 8'),
+  ('Процессоры'),
+  ('Жесткие диски');
+
+UPDATE catalogs SET names = "Процессоры (Intel)"
+  WHERE names = "Процессоры";
+
+DELETE FROM catalogs WHERE id > 2;
+
+DELETE FROM catalogs LIMIT 2;
