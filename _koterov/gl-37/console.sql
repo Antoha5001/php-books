@@ -103,7 +103,9 @@ CREATE TABLE catalogs(
 
 DROP TABLE catalogs;
 DESC catalogs;
-SELECT * FROM catalogs;
+SELECT * FROM catalogs ORDER BY id;
+
+
 
 DELETE FROM catalogs;
 
@@ -125,3 +127,19 @@ UPDATE catalogs SET names = "Процессоры (Intel)"
 DELETE FROM catalogs WHERE id > 2;
 
 DELETE FROM catalogs LIMIT 2;
+
+REPLACE catalogs VALUES
+  (4,"Звуковые карты"),
+  (6,"Сетевые платы");
+
+SELECT names, price FROM catalogs WHERE price > 1200 AND price < 25000;
+
+ALTER TABLE catalogs ADD price INT(11) NOT NULL DEFAULT 10;
+
+REPLACE catalogs (id,names, price) VALUES
+  (1, "Процессоры (Intel)",14000),
+  (2, "Оперативная память",1000),
+  (3, "Видеокарты Geforce 8",25000),
+  (4, "Звуковые карты",3500),
+  (5, "Жесткие диски",4000),
+  (6, "Сетевые платы",1200);
