@@ -143,3 +143,9 @@ REPLACE catalogs (id,names, price) VALUES
   (4, "Звуковые карты",3500),
   (5, "Жесткие диски",4000),
   (6, "Сетевые платы",1200);
+
+SELECT * FROM catalogs WHERE catalogs.price <= 14000 AND catalogs.price >= 3500 XOR catalogs.price = 4000;
+
+SELECT * FROM catalogs WHERE names LIKE "%ы%";
+
+SELECT * FROM catalogs LIMIT 2, 2;
