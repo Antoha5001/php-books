@@ -15,10 +15,9 @@
 </head>
 <body>
 <?php
-
-	echo phpinfo();
-
-
+$querry = "SELECT version() AS version";
+$ver = $pdo->query($querry);
+print_r($ver->fetch(PDO::FETCH_ASSOC));
 ?>
 
 </body>

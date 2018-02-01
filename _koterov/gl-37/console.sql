@@ -149,3 +149,5 @@ SELECT * FROM catalogs WHERE catalogs.price <= 14000 AND catalogs.price >= 3500 
 SELECT * FROM catalogs WHERE names LIKE "%ы%";
 
 SELECT * FROM catalogs LIMIT 2, 2;
+
+SELECT  version() AS version;
