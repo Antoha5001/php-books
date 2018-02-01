@@ -15,9 +15,18 @@
 </head>
 <body>
 <?php
-$querry = "SELECT version() AS version";
+//$querry = "SELECT version() AS version";
+$querry = "select * from catalogs";
 $ver = $pdo->query($querry);
-print_r($ver->fetch(PDO::FETCH_ASSOC));
+echo "<pre>";
+$i = 0;
+while ($i < $ver->rowCount()){
+	print_r($ver->fetchAll(PDO::FETCH_ASSOC));
+	echo  $ver->fetch(PDO::FETCH_ASSOC)['names']." : ".$ver->fetch(PDO::FETCH_ASSOC)['price']."<br>";
+	$i++;
+}
+	echo "</pre>";
+	echo $pdo->exec($querry);
 ?>
 
 </body>
