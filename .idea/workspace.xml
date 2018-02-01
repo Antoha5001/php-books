@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bdeb669-a156-49a7-abf6-0b0ce8b1f9da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_koterov/gl-37/db_connect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_koterov/gl-37/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/_koterov/gl-37/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="0bdeb669-a156-49a7-abf6-0b0ce8b1f9da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +105,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="50" />
     <option name="y" value="9" />
     <option name="width" value="1559" />
@@ -253,15 +249,15 @@
       <workItem from="1517323136055" duration="74000" />
       <workItem from="1517323982999" duration="4330000" />
       <workItem from="1517371117814" duration="3856000" />
-      <workItem from="1517466705047" duration="1235000" />
+      <workItem from="1517466705047" duration="1833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104811000" />
+    <option name="totallyTimeSpent" value="105409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="9" width="1559" height="984" extended-state="1" />
+    <frame x="50" y="9" width="1559" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32555038" />
