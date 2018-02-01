@@ -1,6 +1,7 @@
 <?php
 	header("Content-type: text/html; charset = utf-8");
 	require "../libs.php";
+	require "db_connect.php";
 
 
 ?>
@@ -15,7 +16,7 @@
 <body>
 <?php
 
-echo phpinfo();
+	echo phpinfo();
 
 
 ?>
