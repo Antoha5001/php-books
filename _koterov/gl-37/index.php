@@ -56,6 +56,39 @@
 //	echo "</pre>";
 //	echo $pdo->exec($querry);
 ?>
+<h2>Подготовленный запрос</h2>
+<?php
 
+	$id = 3;
+	$querry = "select names, price from CATALOGs WHERE ID = :id";
+	$response = $pdo->prepare($querry);
+ 	$response->bindParam(':id', $id);
+
+
+	$id = 3;
+	$response->execute();
+	echo $response->fetch()['names'];
+
+?>
+<h2>Вставка новостей</h2>
+<div style="max-width: 400px">
+	<form action='addnews.php' method='POST'>
+
+			<p>Название:</p>
+			<input type='text' name='name'>
+
+
+			<p>Содержимое:</p>
+			<textarea name='content' rows='10' cols='40'></textarea>
+
+		<br>
+
+			<input type='submit' value='Добавить'>
+
+	</form></div>
+
+</table>
+</body>
+</html>
 </body>
 </html>

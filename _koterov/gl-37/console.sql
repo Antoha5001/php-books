@@ -151,3 +151,22 @@ SELECT * FROM catalogs WHERE names LIKE "%ы%";
 SELECT * FROM catalogs LIMIT 2, 2;
 
 SELECT  version() AS version;
+
+CREATE TABLE news(
+  news_id INT(11) NOT NULL AUTO_INCREMENT,
+  news_name TINYTEXT NOT NULL ,
+  news_data DATETIME NOT NULL DEFAULT now(),
+  PRIMARY KEY (news_id)
+);
+DROP TABLE news;
+CREATE TABLE news_contents(
+  content_id INT(11) NOT NULL AUTO_INCREMENT,
+  content TEXT NOT NULL ,
+  news_id INT(11) NOT NULL ,
+  PRIMARY KEY (content_id)
+);
+DESC news;
+DESC news_contents;
+
+SELECT * FROM news;
+SELECT * FROM news_contents;
