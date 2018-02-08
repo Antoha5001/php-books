@@ -1,18 +1,5 @@
 <?php
-	header("Content-type: text/html; charset = utf-8");
-	require "../libs.php";
-?>
-
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-	<meta charset="UTF-8">
-	<title>Title</title>
-</head>
-<body>
-<?php
-print_r(getimagesize("photo.jpg"))."<br>";
+	header('Content-type: image/png');
 	$size = 300;
 	$im = imageCreateTrueColor($size, $size);
 	$back = imageColorAllocate($im, 255, 255, 255);
@@ -28,11 +15,5 @@ print_r(getimagesize("photo.jpg"))."<br>";
 	imageFilledEllipse($im, 187, 125, $radius, $radius, $blue);
 	// Выводим изображение в браузер
 	imagePng($im);
-?>
 
 
-
-</body>
-</html>
-</body>
-</html>
