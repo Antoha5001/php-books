@@ -19,3 +19,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+_koterov/gl-41/vendor/*

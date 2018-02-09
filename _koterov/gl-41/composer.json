@@ -1,0 +1,7 @@
+{
+  "name": "koterov/glava-41",
+  "description":"lessons php",
+  "require": {
+    "monolog/monolog" : "~1.17"
+  }
+}
