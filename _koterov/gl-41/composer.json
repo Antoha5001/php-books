@@ -2,6 +2,7 @@
   "name": "koterov/glava-41",
   "description":"lessons php",
   "require": {
-    "monolog/monolog" : "~1.17"
+    "monolog/monolog" : "~1.17",
+    "psy/psysh":"*"
   }
 }
