@@ -14,7 +14,6 @@
 
 
 	$img = $obj->getItems();
-	print_r($img);
 
 	foreach ($img as $src){
 		echo "<img src='{$src}'>";
