@@ -30,37 +30,39 @@
 			$total_line_on_page = $this->getItemsCount();
 			$total_page = $this->getPagesCount();
 
-			if($current_page <= 0 || $current_page > $total_line_on_page){
+			if($current_page <= 0 || $current_page > $total_page){
 				return 0;
 			}
 			$arr = [];
-			$file = fopen($this->filename, 'r');
+			$file = fopen($this->file_name, 'r');
 
 			if(!$file) return 0;
 
 			$first = ($current_page - 1) * $this->getItemsPerPage();
 
 			for ($i=0; $i<$total_line_on_page; $i++){
-				$str = fgetc($file,10000);
+				$str = fgets($file,10000);
 
 				if($i < $first) continue;
 
 				if($i > $first + $this->getItemsPerPage()-1) break;
 
 				$arr[]= $str;
-
 			}
+			fclose($file);
+
+			return $arr;
 
 		}
 
 		public function getItemsCount(){
 			$countline = 0;
 
-			$file = fopen($this->filename, 'r');
+			$file = fopen($this->file_name, 'r');
 
 			if($file){
 				while (!feof($file)){
-					fgetc($file, 10000);
+					fgets($file,10000);
 					$countline++;
 				}
 				fclose($file);
