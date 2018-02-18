@@ -11,6 +11,14 @@
 		protected $parameters;
 		protected $counter_param;
 
+		/**
+		 * Pager constructor.
+		 * @param View $view
+		 * @param int $items_per_page
+		 * @param int $links_count
+		 * @param null $parameters
+		 * @param string $counter_param
+		 */
 		public function __construct(
 			View $view,
 			$items_per_page = 10,
@@ -58,6 +66,9 @@
 			return $_SERVER["PHP_SELF"];
 		}
 
+		/**
+		 * @return int
+		 */
 		public function getCurentPage(){
 			if(isset($_GET[$this->getCounterParam()])){
 				return intval($_GET[$this->getCounterParam()]);
@@ -66,6 +77,9 @@
 			}
 		}
 
+		/**
+		 * @return int
+		 */
 		public function getPagesCount(){
 			$total_items = $this->getItemsCount();
 //

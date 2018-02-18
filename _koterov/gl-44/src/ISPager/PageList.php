@@ -20,10 +20,10 @@
 
 			$total_pages = $this->pager->getPagesCount();
 
-			$return_page .= $this->link('&lt;&lt;',1);
+			$return_page .= $this->link(' &lt;&lt; ',1);
 
 			if($curent_page != 1){
-				$return_page .= $this->link('&lt;',$curent_page-1)."...";
+				$return_page .= $this->link(' &lt; ',$curent_page-1)." ... ";
 			}
 
 			if($curent_page > $this->pager->getVisibleLinkCount()+1){
@@ -52,10 +52,10 @@
 			}
 // Выводим ссылку вперед, если это не последняя страница
 			if($curent_page != $total_pages) {
-				$return_page .= " ... ".$this->link('&gt;', $curent_page + 1);
+				$return_page .= " ... ".$this->link(' &gt; ', $curent_page + 1);
 			}
 			// Ссылка на последнюю страницу
-			$return_page .= " ... ".$this->link('&gt;&gt;', $total_pages);
+			$return_page .= " ... ".$this->link(' &gt;&gt; ', $total_pages);
 			return $return_page;
 		}
 	}
