@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+    <page id="first">
+        <title>first</title>
+        <description>Описание first страницы</description>
+
+    </page>
+    <page id="second">
+        <title>Second</title>
+        <description>Second desc</description>
+
+    </page>
+</pages>
