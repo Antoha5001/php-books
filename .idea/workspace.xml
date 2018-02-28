@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdeb669-a156-49a7-abf6-0b0ce8b1f9da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_koterov/gl-47/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_koterov/gl-47/test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_koterov/gl-47/album.php" afterDir="false" />
     </list>
     <ignored mask="rest-client.private.env.json" />
     <ignored mask="http-client.private.env.json" />
@@ -40,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_koterov/gl-47/test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -49,9 +47,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="album.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_koterov/gl-47/album.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_koterov/gl-47/test.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -78,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_koterov/gl-22/index.php" />
         <option value="$PROJECT_DIR$/_koterov/gl-25/vendor/webalt/core/app.php" />
         <option value="$PROJECT_DIR$/_koterov/gl-25/index.php" />
         <option value="$PROJECT_DIR$/_koterov/gl-26/index.php" />
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/_koterov/gl-47/index.php" />
         <option value="$PROJECT_DIR$/_koterov/gl-47/test.html" />
         <option value="$PROJECT_DIR$/_koterov/gl-47/test.php" />
+        <option value="$PROJECT_DIR$/_koterov/gl-47/album.php" />
       </list>
     </option>
   </component>
@@ -317,17 +328,18 @@
       <workItem from="1519557460937" duration="10259000" />
       <workItem from="1519619369931" duration="7339000" />
       <workItem from="1519736151022" duration="1220000" />
+      <workItem from="1519819304455" duration="919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216749000" />
+    <option name="totallyTimeSpent" value="217668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="10" width="1636" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21637055" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21890862" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023349" side_tool="true" weight="0.082432434" />
@@ -338,13 +350,13 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49432954" weight="0.32900944" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.4796531" visible="true" weight="0.27294397" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.4796531" visible="true" weight="0.27294397" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4976651" visible="true" weight="0.32900944" />
     </layout>
   </component>
@@ -366,13 +378,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_koterov/gl-27/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="48" column="7" lean-forward="true" selection-start-line="47" selection-end-line="48" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_koterov/gl-27/bindto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -661,13 +666,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_koterov/gl-47/test.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_koterov/gl-47/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl-47/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_koterov/gl-47/album.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
