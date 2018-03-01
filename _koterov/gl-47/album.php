@@ -17,6 +17,8 @@
 				$name = "$img_dir/" . time() . "." . $p[1];
 
 				move_uploaded_file($tmp, $name);
+				$rnd = time();
+				header("Location: http://{$_SERVER['SERVER_NAME']}:82{$_SERVER['SCRIPT_NAME']}?$rnd");
 			} else {
 				echo "<h2>Попытка добавить файл недопустимого формата!</h2>";
 			}

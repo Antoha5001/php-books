@@ -3,4 +3,5 @@
 $dir = dirname($_SERVER['SCRIPT_NAME']);
 //echo $dir;
 if ($dir == "//") $dir = "";
-header("Location: {$dir}/result.php");
+header("Location: $dir/result.php");
+exit();
