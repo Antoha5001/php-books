@@ -42,4 +42,4 @@
 		header("Location: http://{$_SERVER['SERVER_NAME']}:82{$_SERVER['SCRIPT_NAME']}?$rnd");
 	}
 	$data = null;
-//	header('Location: index.php');
+//	header('Location: event.php');

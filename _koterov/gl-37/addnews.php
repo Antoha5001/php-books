@@ -18,7 +18,7 @@ try{
 	$news_content = $pdo->prepare($querry);
 	$news_content->execute(["content" => $_POST['content'], "news_id" => $news_id]);
 
-	header("Location: index.php");
+	header("Location: event.php");
 
 } catch (PDOException $e){
 	print_r($pdo->errorInfo());
